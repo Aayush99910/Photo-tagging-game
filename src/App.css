@@ -1,0 +1,17 @@
+.image-container {
+  position: relative;
+  border: 1px solid black;
+}
+
+.image-container img {
+  object-fit: fill;
+  width: 100%;
+}
+
+.box {
+  background-color: white;
+  height: 100px;
+  width: 100px;
+  border: 1px solid black;
+  position: absolute;
+}
